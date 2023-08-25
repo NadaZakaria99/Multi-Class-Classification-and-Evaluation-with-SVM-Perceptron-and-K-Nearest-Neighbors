@@ -7,11 +7,11 @@ This repository contains code that demonstrates multi-class classification using
 
 2- Ensure you have the required libraries installed by running: pip install pandas numpy scikit-learn matplotlib seaborn.
 
-3- Open the multi_class_classification.py script in your preferred Python environment.
+3- Open the 'multi_class_classification.py' script in your preferred Python environment.
 
 4- Run the script to execute the multi-class classification, model training, evaluation, and visualization processes.
 ### Code Overview
-The multi_class_classification.py script performs the following steps:
+The 'multi_class_classification.py' script performs the following steps:
 
 1- Imports necessary libraries for data manipulation, model training, and visualization.
 
